@@ -1,0 +1,1492 @@
+{
+  "id": "gate-cs-2027",
+  "name": "GATE CS 2027",
+  "subjects": [
+    {
+      "id": "general-aptitude",
+      "name": "General Aptitude",
+      "totalQuestions": 100,
+      "totalMarks": 150,
+      "topics": [
+        {
+          "id": "general-aptitude.spatial-visual-reasoning-folding-figures",
+          "name": "Spatial / visual reasoning (folding, figures)",
+          "questionCount": 19,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2×2",
+            "2022×2",
+            "2023×2",
+            "2024-S1×2",
+            "2024-S2",
+            "2025-S1×2",
+            "2025-S2×2",
+            "2026-S1×2",
+            "2026-S2×2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.verbal-grammar-vocabulary-analogy",
+          "name": "Verbal: grammar, vocabulary, analogy",
+          "questionCount": 17,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2×2",
+            "2022",
+            "2023×2",
+            "2024-S1×2",
+            "2024-S2",
+            "2025-S1×2",
+            "2025-S2×2",
+            "2026-S1",
+            "2026-S2×2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.quant-arithmetic-ratio-averages-profit",
+          "name": "Quant: arithmetic (%, ratio, averages, profit)",
+          "questionCount": 13,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2",
+            "2022",
+            "2024-S1×2",
+            "2024-S2×2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1×2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.analytical-logical-reasoning-and-puzzles",
+          "name": "Analytical: logical reasoning & puzzles",
+          "questionCount": 12,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022×2",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1×2",
+            "2026-S2×3"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.verbal-passage-inference-and-sentence-ordering",
+          "name": "Verbal: passage inference & sentence ordering",
+          "questionCount": 11,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022×2",
+            "2023×3",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.quant-algebra-sequences-functions",
+          "name": "Quant: algebra, sequences, functions",
+          "questionCount": 11,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S2",
+            "2022",
+            "2023×3",
+            "2024-S1×2",
+            "2024-S2×2",
+            "2025-S2",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.quant-probability-and-counting",
+          "name": "Quant: probability & counting",
+          "questionCount": 8,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2024-S2",
+            "2025-S1×2",
+            "2026-S1",
+            "2026-S2×2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.quant-geometry-and-mensuration",
+          "name": "Quant: geometry & mensuration",
+          "questionCount": 5,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2024-S1",
+            "2025-S1",
+            "2025-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "general-aptitude.quant-data-interpretation-tables-pie-charts",
+          "name": "Quant: data interpretation (tables, pie charts)",
+          "questionCount": 4,
+          "marks": null,
+          "oneMark": null,
+          "twoMark": null,
+          "yearsAsked": [
+            "2021-S2",
+            "2024-S1",
+            "2024-S2",
+            "2025-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "engineering-mathematics",
+      "name": "Engineering Mathematics",
+      "totalQuestions": 100,
+      "totalMarks": 148,
+      "topics": [
+        {
+          "id": "engineering-mathematics.probability-and-statistics",
+          "name": "Probability & statistics",
+          "questionCount": 21,
+          "marks": 34,
+          "oneMark": 8,
+          "twoMark": 13,
+          "yearsAsked": [
+            "2021-S1×3",
+            "2021-S2×3",
+            "2023",
+            "2024-S1×3",
+            "2024-S2×2",
+            "2025-S1×3",
+            "2025-S2×2",
+            "2026-S1×2",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "engineering-mathematics.linear-algebra-matrices-determinants-eigen-systems-lu",
+          "name": "Linear algebra (matrices, determinants, eigen, systems, LU)",
+          "questionCount": 20,
+          "marks": 29,
+          "oneMark": 11,
+          "twoMark": 9,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2×2",
+            "2022×3",
+            "2023×2",
+            "2024-S1×2",
+            "2024-S2",
+            "2025-S1×2",
+            "2025-S2×3",
+            "2026-S1×2",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "engineering-mathematics.discrete-graph-theory-connectivity-matching-colouring",
+          "name": "Discrete: graph theory (connectivity, matching, colouring)",
+          "questionCount": 15,
+          "marks": 26,
+          "oneMark": 4,
+          "twoMark": 11,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2022×5",
+            "2023",
+            "2024-S1×2",
+            "2024-S2×2",
+            "2026-S1×2",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "engineering-mathematics.calculus-limits-continuity-maxima-minima-integration",
+          "name": "Calculus (limits, continuity, maxima/minima, integration)",
+          "questionCount": 13,
+          "marks": 15,
+          "oneMark": 11,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022",
+            "2023×2",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1×2",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "engineering-mathematics.discrete-sets-relations-functions-posets-lattices",
+          "name": "Discrete: sets, relations, functions, posets, lattices",
+          "questionCount": 8,
+          "marks": 11,
+          "oneMark": 5,
+          "twoMark": 3,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": true
+        },
+        {
+          "id": "engineering-mathematics.discrete-propositional-and-first-order-logic",
+          "name": "Discrete: propositional & first-order logic",
+          "questionCount": 7,
+          "marks": 8,
+          "oneMark": 6,
+          "twoMark": 1,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2023",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": true
+        },
+        {
+          "id": "engineering-mathematics.discrete-monoids-and-groups",
+          "name": "Discrete: monoids & groups",
+          "questionCount": 6,
+          "marks": 11,
+          "oneMark": 1,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "engineering-mathematics.discrete-combinatorics-counting",
+          "name": "Discrete: combinatorics (counting)",
+          "questionCount": 6,
+          "marks": 8,
+          "oneMark": 4,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022",
+            "2023",
+            "2025-S1",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": true
+        },
+        {
+          "id": "engineering-mathematics.discrete-recurrence-relations-and-generating-functions",
+          "name": "Discrete: recurrence relations & generating functions",
+          "questionCount": 4,
+          "marks": 6,
+          "oneMark": 2,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2022×2",
+            "2023",
+            "2024-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": true
+        }
+      ]
+    },
+    {
+      "id": "programming-and-data-structures",
+      "name": "Programming & Data Structures",
+      "totalQuestions": 59,
+      "totalMarks": 91,
+      "topics": [
+        {
+          "id": "programming-and-data-structures.programming-in-c-pointers-arrays-scope-output-tracing",
+          "name": "Programming in C (pointers, arrays, scope, output tracing)",
+          "questionCount": 21,
+          "marks": 31,
+          "oneMark": 11,
+          "twoMark": 10,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2",
+            "2022×3",
+            "2023",
+            "2024-S1×2",
+            "2024-S2×3",
+            "2025-S1×2",
+            "2025-S2×4",
+            "2026-S1",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "programming-and-data-structures.trees-and-binary-search-trees",
+          "name": "Trees & binary search trees",
+          "questionCount": 12,
+          "marks": 17,
+          "oneMark": 7,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2023",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2×2",
+            "2026-S1×3",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "programming-and-data-structures.binary-heaps-priority-queues",
+          "name": "Binary heaps / priority queues",
+          "questionCount": 8,
+          "marks": 12,
+          "oneMark": 4,
+          "twoMark": 4,
+          "yearsAsked": [
+            "2021-S2",
+            "2023×2",
+            "2024-S1×2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "programming-and-data-structures.stacks-and-queues",
+          "name": "Stacks & queues",
+          "questionCount": 6,
+          "marks": 11,
+          "oneMark": 1,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2023",
+            "2024-S2",
+            "2025-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "programming-and-data-structures.recursion",
+          "name": "Recursion",
+          "questionCount": 6,
+          "marks": 10,
+          "oneMark": 2,
+          "twoMark": 4,
+          "yearsAsked": [
+            "2021-S2×2",
+            "2024-S1",
+            "2025-S1",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": true
+        },
+        {
+          "id": "programming-and-data-structures.linked-lists",
+          "name": "Linked lists",
+          "questionCount": 5,
+          "marks": 8,
+          "oneMark": 2,
+          "twoMark": 3,
+          "yearsAsked": [
+            "2021-S2",
+            "2022",
+            "2023",
+            "2025-S1",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "programming-and-data-structures.arrays",
+          "name": "Arrays",
+          "questionCount": 1,
+          "marks": 2,
+          "oneMark": 0,
+          "twoMark": 1,
+          "yearsAsked": [
+            "2024-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "operating-system",
+      "name": "Operating System",
+      "totalQuestions": 53,
+      "totalMarks": 86,
+      "topics": [
+        {
+          "id": "operating-system.memory-management-and-virtual-memory-paging-tlb-replacement",
+          "name": "Memory management & virtual memory (paging, TLB, replacement)",
+          "questionCount": 16,
+          "marks": 29,
+          "oneMark": 3,
+          "twoMark": 13,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022×2",
+            "2023×2",
+            "2024-S1",
+            "2024-S2×2",
+            "2025-S1×2",
+            "2025-S2×2",
+            "2026-S1",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "operating-system.cpu-scheduling",
+          "name": "CPU scheduling",
+          "questionCount": 9,
+          "marks": 13,
+          "oneMark": 5,
+          "twoMark": 4,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022",
+            "2023",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "operating-system.system-calls-processes-threads-fork-states",
+          "name": "System calls, processes, threads (fork, states)",
+          "questionCount": 9,
+          "marks": 11,
+          "oneMark": 7,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S1",
+            "2023×2",
+            "2024-S1×3",
+            "2024-S2",
+            "2025-S1",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "operating-system.concurrency-and-synchronization-semaphores",
+          "name": "Concurrency & synchronization (semaphores)",
+          "questionCount": 7,
+          "marks": 13,
+          "oneMark": 1,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "operating-system.file-systems-and-disk",
+          "name": "File systems & disk",
+          "questionCount": 7,
+          "marks": 13,
+          "oneMark": 1,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "operating-system.deadlock",
+          "name": "Deadlock",
+          "questionCount": 5,
+          "marks": 7,
+          "oneMark": 3,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S2",
+            "2022",
+            "2025-S2",
+            "2026-S1×2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "algorithms",
+      "name": "Algorithms",
+      "totalQuestions": 53,
+      "totalMarks": 82,
+      "topics": [
+        {
+          "id": "algorithms.asymptotic-complexity-and-solving-recurrences",
+          "name": "Asymptotic complexity & solving recurrences",
+          "questionCount": 13,
+          "marks": 18,
+          "oneMark": 8,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2",
+            "2022",
+            "2023×2",
+            "2024-S1×2",
+            "2025-S1",
+            "2026-S1",
+            "2026-S2×3"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "algorithms.graph-traversals-bfs-dfs",
+          "name": "Graph traversals (BFS/DFS)",
+          "questionCount": 11,
+          "marks": 20,
+          "oneMark": 2,
+          "twoMark": 9,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2×2",
+            "2023",
+            "2024-S1×2",
+            "2025-S1",
+            "2025-S2×2",
+            "2026-S1×2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "algorithms.minimum-spanning-trees",
+          "name": "Minimum spanning trees",
+          "questionCount": 9,
+          "marks": 15,
+          "oneMark": 3,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022",
+            "2024-S2×2",
+            "2025-S1×2",
+            "2025-S2",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "algorithms.searching-and-sorting",
+          "name": "Searching & sorting",
+          "questionCount": 7,
+          "marks": 8,
+          "oneMark": 6,
+          "twoMark": 1,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2",
+            "2025-S1",
+            "2025-S2×2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "algorithms.hashing",
+          "name": "Hashing",
+          "questionCount": 6,
+          "marks": 8,
+          "oneMark": 4,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2023",
+            "2025-S1",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "algorithms.shortest-paths",
+          "name": "Shortest paths",
+          "questionCount": 3,
+          "marks": 6,
+          "oneMark": 0,
+          "twoMark": 3,
+          "yearsAsked": [
+            "2021-S2",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "algorithms.dynamic-programming",
+          "name": "Dynamic programming",
+          "questionCount": 3,
+          "marks": 5,
+          "oneMark": 1,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S1",
+            "2024-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "algorithms.greedy-algorithms",
+          "name": "Greedy algorithms",
+          "questionCount": 1,
+          "marks": 2,
+          "oneMark": 0,
+          "twoMark": 1,
+          "yearsAsked": [
+            "2021-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "algorithms.divide-and-conquer",
+          "name": "Divide & conquer",
+          "questionCount": 0,
+          "marks": 0,
+          "oneMark": 0,
+          "twoMark": 0,
+          "yearsAsked": [],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "computer-networks",
+      "name": "Computer Networks",
+      "totalQuestions": 52,
+      "totalMarks": 81,
+      "topics": [
+        {
+          "id": "computer-networks.ipv4-subnetting-cidr-fragmentation-nat",
+          "name": "IPv4: subnetting, CIDR, fragmentation, NAT",
+          "questionCount": 16,
+          "marks": 25,
+          "oneMark": 7,
+          "twoMark": 9,
+          "yearsAsked": [
+            "2021-S1",
+            "2022×2",
+            "2023",
+            "2024-S1×3",
+            "2024-S2×3",
+            "2025-S1×2",
+            "2025-S2×2",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-networks.tcp-handshake-flow-and-congestion-control-udp",
+          "name": "TCP: handshake, flow & congestion control, UDP",
+          "questionCount": 10,
+          "marks": 16,
+          "oneMark": 4,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2026-S1×2",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-networks.switching-delays-and-flow-control-stop-and-wait-sliding-window",
+          "name": "Switching, delays & flow control (stop-and-wait, sliding window)",
+          "questionCount": 8,
+          "marks": 14,
+          "oneMark": 2,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2025-S2",
+            "2026-S1",
+            "2026-S2×2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-networks.mac-ethernet-arp",
+          "name": "MAC, Ethernet, ARP",
+          "questionCount": 5,
+          "marks": 7,
+          "oneMark": 3,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2024-S2×2",
+            "2025-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-networks.application-layer-dns-http-dhcp",
+          "name": "Application layer (DNS, HTTP, DHCP)",
+          "questionCount": 5,
+          "marks": 6,
+          "oneMark": 4,
+          "twoMark": 1,
+          "yearsAsked": [
+            "2022",
+            "2023",
+            "2024-S1",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-networks.routing-distance-vector-link-state",
+          "name": "Routing (distance vector, link state)",
+          "questionCount": 4,
+          "marks": 6,
+          "oneMark": 2,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S2",
+            "2022",
+            "2023",
+            "2025-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-networks.data-link-error-detection-crc-checksum",
+          "name": "Data link: error detection (CRC, checksum)",
+          "questionCount": 3,
+          "marks": 6,
+          "oneMark": 0,
+          "twoMark": 3,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-networks.principles-of-layering-osi-tcp-ip",
+          "name": "Principles of layering (OSI/TCP-IP)",
+          "questionCount": 1,
+          "marks": 1,
+          "oneMark": 1,
+          "twoMark": 0,
+          "yearsAsked": [
+            "2025-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "computer-organization-and-architecture",
+      "name": "Computer Organization & Architecture",
+      "totalQuestions": 48,
+      "totalMarks": 77,
+      "topics": [
+        {
+          "id": "computer-organization-and-architecture.cache-memory-mapping-amat-write-policies",
+          "name": "Cache memory (mapping, AMAT, write policies)",
+          "questionCount": 16,
+          "marks": 28,
+          "oneMark": 4,
+          "twoMark": 12,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2×2",
+            "2022×3",
+            "2023",
+            "2024-S1×2",
+            "2025-S1×2",
+            "2025-S2×2",
+            "2026-S1",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-organization-and-architecture.instruction-pipelining-and-hazards",
+          "name": "Instruction pipelining & hazards",
+          "questionCount": 11,
+          "marks": 18,
+          "oneMark": 4,
+          "twoMark": 7,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2024-S2×2",
+            "2025-S2",
+            "2026-S1×2",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-organization-and-architecture.instruction-set-and-addressing-modes",
+          "name": "Instruction set & addressing modes",
+          "questionCount": 9,
+          "marks": 15,
+          "oneMark": 3,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2023",
+            "2024-S2×2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1×2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-organization-and-architecture.i-o-interface-interrupt-dma-polling",
+          "name": "I/O interface (interrupt, DMA, polling)",
+          "questionCount": 7,
+          "marks": 7,
+          "oneMark": 7,
+          "twoMark": 0,
+          "yearsAsked": [
+            "2021-S2",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-organization-and-architecture.memory-interfacing-and-hierarchy",
+          "name": "Memory interfacing & hierarchy",
+          "questionCount": 2,
+          "marks": 4,
+          "oneMark": 0,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S2",
+            "2023"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-organization-and-architecture.cpu-performance-cpi-speedup-amdahl",
+          "name": "CPU performance (CPI, speedup, Amdahl)",
+          "questionCount": 2,
+          "marks": 4,
+          "oneMark": 0,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2024-S1",
+            "2025-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "computer-organization-and-architecture.alu-and-datapath-design",
+          "name": "ALU & datapath design",
+          "questionCount": 1,
+          "marks": 1,
+          "oneMark": 1,
+          "twoMark": 0,
+          "yearsAsked": [
+            "2025-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "databases",
+      "name": "Databases",
+      "totalQuestions": 48,
+      "totalMarks": 73,
+      "topics": [
+        {
+          "id": "databases.keys-integrity-constraints-fds-and-normal-forms",
+          "name": "Keys, integrity constraints, FDs & normal forms",
+          "questionCount": 14,
+          "marks": 22,
+          "oneMark": 6,
+          "twoMark": 8,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2×2",
+            "2022×2",
+            "2024-S1×2",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1×3",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "databases.transactions-and-concurrency-control",
+          "name": "Transactions & concurrency control",
+          "questionCount": 11,
+          "marks": 16,
+          "oneMark": 6,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2",
+            "2022",
+            "2024-S1",
+            "2024-S2×2",
+            "2025-S1",
+            "2025-S2×2",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "databases.relational-algebra-and-tuple-calculus",
+          "name": "Relational algebra & tuple calculus",
+          "questionCount": 8,
+          "marks": 12,
+          "oneMark": 4,
+          "twoMark": 4,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "databases.file-organization-and-indexing-b-b-trees",
+          "name": "File organization & indexing (B/B+ trees)",
+          "questionCount": 7,
+          "marks": 10,
+          "oneMark": 4,
+          "twoMark": 3,
+          "yearsAsked": [
+            "2021-S2",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "databases.sql",
+          "name": "SQL",
+          "questionCount": 5,
+          "marks": 10,
+          "oneMark": 0,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S2",
+            "2022",
+            "2023",
+            "2025-S1",
+            "2025-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "databases.er-model-and-data-models",
+          "name": "ER model & data models",
+          "questionCount": 3,
+          "marks": 3,
+          "oneMark": 3,
+          "twoMark": 0,
+          "yearsAsked": [
+            "2024-S1",
+            "2024-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "theory-of-computation",
+      "name": "Theory of Computation",
+      "totalQuestions": 47,
+      "totalMarks": 74,
+      "topics": [
+        {
+          "id": "theory-of-computation.regular-expressions-and-finite-automata-dfa-nfa-minimization",
+          "name": "Regular expressions & finite automata (DFA/NFA, minimization)",
+          "questionCount": 17,
+          "marks": 27,
+          "oneMark": 7,
+          "twoMark": 10,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2×3",
+            "2022",
+            "2023×2",
+            "2024-S1×2",
+            "2024-S2×3",
+            "2025-S1×2",
+            "2025-S2",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "theory-of-computation.cfgs-and-push-down-automata",
+          "name": "CFGs & push-down automata",
+          "questionCount": 10,
+          "marks": 16,
+          "oneMark": 4,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2023×2",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1×2",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "theory-of-computation.context-free-languages-closure-and-identification",
+          "name": "Context-free languages: closure & identification",
+          "questionCount": 9,
+          "marks": 14,
+          "oneMark": 4,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2×2",
+            "2022×2",
+            "2023",
+            "2025-S1",
+            "2025-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "theory-of-computation.turing-machines-and-undecidability",
+          "name": "Turing machines & undecidability",
+          "questionCount": 6,
+          "marks": 8,
+          "oneMark": 4,
+          "twoMark": 2,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2022×2",
+            "2025-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "theory-of-computation.regular-languages-closure-and-pumping-lemma",
+          "name": "Regular languages: closure & pumping lemma",
+          "questionCount": 5,
+          "marks": 9,
+          "oneMark": 1,
+          "twoMark": 4,
+          "yearsAsked": [
+            "2021-S2",
+            "2024-S1",
+            "2025-S1",
+            "2025-S2",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "digital-logic",
+      "name": "Digital Logic",
+      "totalQuestions": 46,
+      "totalMarks": 70,
+      "topics": [
+        {
+          "id": "digital-logic.number-representation-and-arithmetic-2s-comp-ieee-754",
+          "name": "Number representation & arithmetic (2's comp, IEEE 754)",
+          "questionCount": 18,
+          "marks": 23,
+          "oneMark": 13,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2×2",
+            "2022×2",
+            "2023×2",
+            "2024-S1",
+            "2024-S2×2",
+            "2025-S1",
+            "2025-S2×2",
+            "2026-S1×2",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": true
+        },
+        {
+          "id": "digital-logic.boolean-algebra-and-minimization-k-map",
+          "name": "Boolean algebra & minimization (K-map)",
+          "questionCount": 13,
+          "marks": 21,
+          "oneMark": 5,
+          "twoMark": 8,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2024-S1",
+            "2024-S2",
+            "2025-S1×2",
+            "2025-S2×3",
+            "2026-S1×2",
+            "2026-S2×2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "digital-logic.sequential-circuits-flip-flops-counters-fsm",
+          "name": "Sequential circuits (flip-flops, counters, FSM)",
+          "questionCount": 8,
+          "marks": 14,
+          "oneMark": 2,
+          "twoMark": 6,
+          "yearsAsked": [
+            "2021-S1",
+            "2021-S2",
+            "2023×2",
+            "2025-S1×2",
+            "2025-S2",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "digital-logic.combinational-circuits-mux-decoder-adders",
+          "name": "Combinational circuits (MUX, decoder, adders)",
+          "questionCount": 7,
+          "marks": 12,
+          "oneMark": 2,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S2",
+            "2022",
+            "2023",
+            "2024-S1×2",
+            "2024-S2",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    },
+    {
+      "id": "compiler-design",
+      "name": "Compiler Design",
+      "totalQuestions": 44,
+      "totalMarks": 68,
+      "topics": [
+        {
+          "id": "compiler-design.parsing-first-follow-ll-lr-slr-lalr",
+          "name": "Parsing (FIRST/FOLLOW, LL, LR, SLR, LALR)",
+          "questionCount": 15,
+          "marks": 24,
+          "oneMark": 6,
+          "twoMark": 9,
+          "yearsAsked": [
+            "2021-S1×2",
+            "2021-S2",
+            "2022×2",
+            "2024-S1×3",
+            "2024-S2×2",
+            "2025-S1",
+            "2025-S2×2",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": true,
+          "isFoundation": false
+        },
+        {
+          "id": "compiler-design.syntax-directed-translation",
+          "name": "Syntax-directed translation",
+          "questionCount": 7,
+          "marks": 12,
+          "oneMark": 2,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S1",
+            "2022",
+            "2023",
+            "2024-S1",
+            "2024-S2",
+            "2025-S2",
+            "2026-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "compiler-design.lexical-analysis-compiler-phases-and-symbol-table",
+          "name": "Lexical analysis, compiler phases & symbol table",
+          "questionCount": 7,
+          "marks": 7,
+          "oneMark": 7,
+          "twoMark": 0,
+          "yearsAsked": [
+            "2021-S2",
+            "2023×2",
+            "2024-S2",
+            "2025-S1",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "compiler-design.data-flow-analysis-liveness-cse-constant-propagation",
+          "name": "Data-flow analysis (liveness, CSE, constant propagation)",
+          "questionCount": 6,
+          "marks": 11,
+          "oneMark": 1,
+          "twoMark": 5,
+          "yearsAsked": [
+            "2021-S2×2",
+            "2023",
+            "2025-S1",
+            "2026-S1",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "compiler-design.basic-blocks-and-local-optimisation",
+          "name": "Basic blocks & local optimisation",
+          "questionCount": 3,
+          "marks": 6,
+          "oneMark": 0,
+          "twoMark": 3,
+          "yearsAsked": [
+            "2021-S1",
+            "2024-S1",
+            "2025-S1"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "compiler-design.runtime-environments-activation-records-heap-stack",
+          "name": "Runtime environments (activation records, heap/stack)",
+          "questionCount": 3,
+          "marks": 4,
+          "oneMark": 2,
+          "twoMark": 1,
+          "yearsAsked": [
+            "2021-S1",
+            "2023",
+            "2026-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        },
+        {
+          "id": "compiler-design.intermediate-code-generation",
+          "name": "Intermediate code generation",
+          "questionCount": 3,
+          "marks": 4,
+          "oneMark": 2,
+          "twoMark": 1,
+          "yearsAsked": [
+            "2021-S2",
+            "2024-S2",
+            "2025-S2"
+          ],
+          "isTop20": false,
+          "isFoundation": false
+        }
+      ]
+    }
+  ]
+}
