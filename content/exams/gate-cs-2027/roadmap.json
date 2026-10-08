@@ -1,0 +1,648 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Foundation I: Discrete Maths & Probability",
+      "days": [
+        {
+          "id": "w1d1",
+          "day": 1,
+          "topics": [
+            "Probability & statistics (21)",
+            "combinatorics (6)"
+          ],
+          "tasks": "Conditional probability, Bayes, random variables, expectation, the 5 distributions; permutations and combinations, inclusion–exclusion",
+          "pyqTarget": "53 Qs this week (all Discrete Maths + Probability Qs in the 7 practice papers)",
+          "revision": "D7: re-solve every wrong Q, make a formula sheet"
+        },
+        {
+          "id": "w1d2",
+          "day": 2,
+          "topics": [
+            "Probability & statistics (21)",
+            "combinatorics (6)"
+          ],
+          "tasks": "Conditional probability, Bayes, random variables, expectation, the 5 distributions; permutations and combinations, inclusion–exclusion",
+          "pyqTarget": "53 Qs this week (all Discrete Maths + Probability Qs in the 7 practice papers)",
+          "revision": "D7: re-solve every wrong Q, make a formula sheet"
+        },
+        {
+          "id": "w1d3",
+          "day": 3,
+          "topics": [
+            "Graph theory (15)"
+          ],
+          "tasks": "Degree sum, connectivity, planarity (Euler), colouring/chromatic number, matching, independent sets, adjacency matrix tricks",
+          "pyqTarget": "53 Qs this week (all Discrete Maths + Probability Qs in the 7 practice papers)",
+          "revision": "D7: re-solve every wrong Q, make a formula sheet"
+        },
+        {
+          "id": "w1d4",
+          "day": 4,
+          "topics": [
+            "Graph theory (15)"
+          ],
+          "tasks": "Degree sum, connectivity, planarity (Euler), colouring/chromatic number, matching, independent sets, adjacency matrix tricks",
+          "pyqTarget": "53 Qs this week (all Discrete Maths + Probability Qs in the 7 practice papers)",
+          "revision": "D7: re-solve every wrong Q, make a formula sheet"
+        },
+        {
+          "id": "w1d5",
+          "day": 5,
+          "topics": [
+            "Sets, relations, functions, posets, lattices (8)",
+            "logic (7)"
+          ],
+          "tasks": "Equivalence relations, counting relations/functions, partial orders, lattices; tautology checks, translating English to predicate logic",
+          "pyqTarget": "53 Qs this week (all Discrete Maths + Probability Qs in the 7 practice papers)",
+          "revision": "D7: re-solve every wrong Q, make a formula sheet"
+        },
+        {
+          "id": "w1d6",
+          "day": 6,
+          "topics": [
+            "Groups & monoids (6)",
+            "recurrences & generating functions (4)"
+          ],
+          "tasks": "Group axioms, abelian groups, subgroup orders (Lagrange), self-inverse elements; solving linear recurrences, closed-form generating functions",
+          "pyqTarget": "53 Qs this week (all Discrete Maths + Probability Qs in the 7 practice papers)",
+          "revision": "D7: re-solve every wrong Q, make a formula sheet"
+        },
+        {
+          "id": "w1d7",
+          "day": 7,
+          "topics": [
+            "Revision"
+          ],
+          "tasks": "Re-attempt the week's PYQs without notes",
+          "pyqTarget": "–",
+          "revision": "Full week"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Foundation II: Linear Algebra, Calculus & Digital Logic",
+      "days": [
+        {
+          "id": "w2d1",
+          "day": 1,
+          "topics": [
+            "Linear algebra (20)"
+          ],
+          "tasks": "Determinant properties, rank & null space, systems of equations (unique/none/infinite), eigenvalues (trace = sum, det = product), LU decomposition",
+          "pyqTarget": "51 Qs this week",
+          "revision": "D7 + 30 min Week 1 formula sheet"
+        },
+        {
+          "id": "w2d2",
+          "day": 2,
+          "topics": [
+            "Linear algebra (20)"
+          ],
+          "tasks": "Determinant properties, rank & null space, systems of equations (unique/none/infinite), eigenvalues (trace = sum, det = product), LU decomposition",
+          "pyqTarget": "51 Qs this week",
+          "revision": "D7 + 30 min Week 1 formula sheet"
+        },
+        {
+          "id": "w2d3",
+          "day": 3,
+          "topics": [
+            "Calculus (13)"
+          ],
+          "tasks": "Limits (L'Hôpital), continuity & differentiability (piecewise functions), maxima/minima, definite integrals",
+          "pyqTarget": "51 Qs this week",
+          "revision": "D7 + 30 min Week 1 formula sheet"
+        },
+        {
+          "id": "w2d4",
+          "day": 4,
+          "topics": [
+            "Number representation (18)"
+          ],
+          "tasks": "Base conversion, 2's complement & overflow, sign-magnitude, IEEE 754 single precision (encode/decode/add), Booth's algorithm",
+          "pyqTarget": "51 Qs this week",
+          "revision": "D7 + 30 min Week 1 formula sheet"
+        },
+        {
+          "id": "w2d5",
+          "day": 5,
+          "topics": [
+            "Boolean algebra & K-maps (13)"
+          ],
+          "tasks": "Boolean identities, SOP/POS, 4-variable K-map, minimal expressions, minterm/maxterm conversions",
+          "pyqTarget": "51 Qs this week",
+          "revision": "D7 + 30 min Week 1 formula sheet"
+        },
+        {
+          "id": "w2d6",
+          "day": 6,
+          "topics": [
+            "Sequential (8)",
+            "combinational circuits (7)"
+          ],
+          "tasks": "Flip-flops (D, T, JK), counters, FSM state minimisation; MUX-based function realisation, decoders",
+          "pyqTarget": "51 Qs this week",
+          "revision": "D7 + 30 min Week 1 formula sheet"
+        },
+        {
+          "id": "w2d7",
+          "day": 7,
+          "topics": [
+            "Revision"
+          ],
+          "tasks": "Re-attempt wrong Qs from weeks 1–2",
+          "pyqTarget": "–",
+          "revision": "Weeks 1–2"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "title": "Programming & Data Structures + Algorithms",
+      "days": [
+        {
+          "id": "w3d1",
+          "day": 1,
+          "topics": [
+            "C programming (21)"
+          ],
+          "tasks": "Pointers & pointer arithmetic, 2-D arrays, static/scope rules, strings, operator precedence, tracing output by hand",
+          "pyqTarget": "73 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w3d2",
+          "day": 2,
+          "topics": [
+            "Trees & BST (12)",
+            "binary heaps (8)"
+          ],
+          "tasks": "Traversals (pre/in/post), BST insertion, complete/full tree counts, heap array indexing, heapify, insert/extract costs",
+          "pyqTarget": "73 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w3d3",
+          "day": 3,
+          "topics": [
+            "Stacks & queues (6)",
+            "recursion (6)",
+            "linked lists (5)",
+            "arrays (1)"
+          ],
+          "tasks": "Stack/queue simulation, recursive call tracing, list manipulation code",
+          "pyqTarget": "73 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w3d4",
+          "day": 4,
+          "topics": [
+            "Asymptotic complexity & recurrences (13)",
+            "searching & sorting (7)",
+            "hashing (6)"
+          ],
+          "tasks": "Master theorem, growth-rate ordering, comparisons in sorting/min-max, binary search, linear probing, chaining, double hashing",
+          "pyqTarget": "73 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w3d5",
+          "day": 5,
+          "topics": [
+            "Graph traversals BFS/DFS (11)"
+          ],
+          "tasks": "DFS edge classification, discovery/finish times, BFS tree properties, connected components, articulation points",
+          "pyqTarget": "73 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w3d6",
+          "day": 6,
+          "topics": [
+            "MST (9)",
+            "shortest paths (3)",
+            "DP (3)",
+            "greedy (1)",
+            "divide & conquer (0)"
+          ],
+          "tasks": "Kruskal/Prim, cut and cycle properties, counting MSTs, Dijkstra, DAG shortest path, rod cutting/LIS, Huffman coding",
+          "pyqTarget": "73 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w3d7",
+          "day": 7,
+          "topics": [
+            "Revision"
+          ],
+          "tasks": "Re-solve all code-tracing Qs again (speed drill)",
+          "pyqTarget": "–",
+          "revision": "Weeks 1–3 (top 20 list only)"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "title": "Computer Organization & Architecture + Operating System",
+      "days": [
+        {
+          "id": "w4d1",
+          "day": 1,
+          "topics": [
+            "Cache memory (16)",
+            "memory hierarchy (2)"
+          ],
+          "tasks": "Tag/index/offset bits for direct-mapped and set-associative caches, hit/miss tracing, AMAT (1- and 2-level), write-back vs write-through",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w4d2",
+          "day": 2,
+          "topics": [
+            "Pipelining (11)",
+            "CPU performance (2)"
+          ],
+          "tasks": "Pipeline time with latch delay, stalls & speedup, RAW/WAR/WAW hazards, forwarding, CPI and Amdahl",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w4d3",
+          "day": 3,
+          "topics": [
+            "Instruction set & addressing modes (9)",
+            "I/O: interrupts & DMA (7)",
+            "ALU/datapath (1)"
+          ],
+          "tasks": "Opcode-bit counting, addressing modes, DMA transfer rate (cycle stealing), vectored interrupts",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w4d4",
+          "day": 4,
+          "topics": [
+            "Memory management & virtual memory (16)"
+          ],
+          "tasks": "Page table size, multi-level paging, TLB, LRU/FIFO/Optimal page faults, row-major array page faults",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w4d5",
+          "day": 5,
+          "topics": [
+            "CPU scheduling (9)",
+            "processes & fork (9)"
+          ],
+          "tasks": "FCFS/SJF/SRTF/RR/priority waiting times, fork() print counting, user/kernel mode, threads",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w4d6",
+          "day": 6,
+          "topics": [
+            "Synchronization (7)",
+            "file systems & disk (7)",
+            "deadlock (5)"
+          ],
+          "tasks": "Semaphore traces, deadlock conditions & Banker's, RAG, disk access time, linked/contiguous allocation",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w4d7",
+          "day": 7,
+          "topics": [
+            "Revision"
+          ],
+          "tasks": "Bit-field numericals drill (cache + paging + opcode)",
+          "pyqTarget": "–",
+          "revision": "Weeks 2–4"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "title": "Databases + Computer Networks",
+      "days": [
+        {
+          "id": "w5d1",
+          "day": 1,
+          "topics": [
+            "Keys, FDs & normal forms (14)"
+          ],
+          "tasks": "Attribute closure, candidate keys, superkey counting, 2NF/3NF/BCNF tests, lossless and dependency-preserving decomposition",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w5d2",
+          "day": 2,
+          "topics": [
+            "Transactions & concurrency control (11)"
+          ],
+          "tasks": "Conflict serializability (precedence graph), recoverability, 2PL, ACID",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w5d3",
+          "day": 3,
+          "topics": [
+            "Relational algebra/TRC (8)",
+            "file organisation & B+ trees (7)",
+            "SQL (5)",
+            "ER model (3)"
+          ],
+          "tasks": "Division and joins, TRC ↔ RA, nested/correlated SQL, B+ tree insert/split, index block-access counts",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w5d4",
+          "day": 4,
+          "topics": [
+            "IPv4: subnetting, CIDR, fragmentation, NAT (16)"
+          ],
+          "tasks": "Longest-prefix match, aggregation, host counts, fragment counts/offsets, header fields changed by routers/NAT",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w5d5",
+          "day": 5,
+          "topics": [
+            "TCP (10)",
+            "delays & flow control (8)"
+          ],
+          "tasks": "3-way handshake, slow start/congestion avoidance windows, sequence-number bits; transmission/propagation delay, stop-and-wait and sliding-window utilisation",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w5d6",
+          "day": 6,
+          "topics": [
+            "MAC/Ethernet/ARP (5)",
+            "application layer (5)",
+            "routing (4)",
+            "error detection (3)",
+            "layering (1)"
+          ],
+          "tasks": "CSMA/CD minimum frame, ALOHA, DNS/HTTP RTT counting, distance vector/link state, CRC and Hamming",
+          "pyqTarget": "71 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w5d7",
+          "day": 7,
+          "topics": [
+            "Revision"
+          ],
+          "tasks": "Re-solve all DB + CN numericals",
+          "pyqTarget": "–",
+          "revision": "Weeks 3–5"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "title": "Theory of Computation + Compiler Design",
+      "days": [
+        {
+          "id": "w6d1",
+          "day": 1,
+          "topics": [
+            "Regular expressions & finite automata (17)",
+            "regular-language closure/pumping (5)"
+          ],
+          "tasks": "DFA ↔ RE, minimal DFA state counts, NFA → DFA, string counting, closure properties",
+          "pyqTarget": "66 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w6d2",
+          "day": 2,
+          "topics": [
+            "CFG & PDA (10)",
+            "CFL identification/closure (9)"
+          ],
+          "tasks": "Language of a grammar/PDA, CNF derivation steps, ambiguity, is it regular / CFL / not CFL",
+          "pyqTarget": "66 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w6d3",
+          "day": 3,
+          "topics": [
+            "Turing machines & undecidability (6)",
+            "lexical analysis & compiler phases (7)"
+          ],
+          "tasks": "Rice's theorem, decidable vs RE, which phase catches which error, token counting",
+          "pyqTarget": "66 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w6d4",
+          "day": 4,
+          "topics": [
+            "Parsing (15)"
+          ],
+          "tasks": "FIRST/FOLLOW, LL(1) tables, LR(0)/SLR/LALR/CLR item sets and conflicts, GOTO item counts",
+          "pyqTarget": "66 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w6d5",
+          "day": 5,
+          "topics": [
+            "SDT (7)",
+            "intermediate code (3)",
+            "runtime environments (3)"
+          ],
+          "tasks": "Evaluate SDT on input, S- vs L-attributed, three-address code/triples, activation trees",
+          "pyqTarget": "66 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w6d6",
+          "day": 6,
+          "topics": [
+            "Data-flow analysis (6)",
+            "basic blocks & local optimisation (3)"
+          ],
+          "tasks": "Liveness at block exits, common subexpressions, counting basic blocks, DAG nodes",
+          "pyqTarget": "66 Qs this week",
+          "revision": "D7"
+        },
+        {
+          "id": "w6d7",
+          "day": 7,
+          "topics": [
+            "Revision"
+          ],
+          "tasks": "Re-attempt every wrong TOC/CD Q",
+          "pyqTarget": "–",
+          "revision": "Weeks 1–6 top 20 list"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "title": "Mock Tests & Revision (final 2 weeks)",
+      "days": [
+        {
+          "id": "w7d1",
+          "day": 1,
+          "topics": [
+            "Mock 1 = GATE 2025 Set 2"
+          ],
+          "tasks": "Full 3-hour paper, timed, in one sitting",
+          "pyqTarget": "65 Qs",
+          "revision": "–"
+        },
+        {
+          "id": "w7d2",
+          "day": 2,
+          "topics": [
+            "Mock 1 analysis"
+          ],
+          "tasks": "Mark every error as concept / calculation / time; list weak topics",
+          "pyqTarget": "–",
+          "revision": "Weak topics"
+        },
+        {
+          "id": "w7d3",
+          "day": 3,
+          "topics": [
+            "Revise Most Important Topics 1–10 (Section 1)"
+          ],
+          "tasks": "1 hour notes + 1 hour mixed PYQs + 1 hour weak-topic fixes (from Mock 1)",
+          "pyqTarget": "Re-solve wrong PYQs",
+          "revision": "Ranks 1–10"
+        },
+        {
+          "id": "w7d4",
+          "day": 4,
+          "topics": [
+            "Revise Most Important Topics 1–10 (Section 1)"
+          ],
+          "tasks": "1 hour notes + 1 hour mixed PYQs + 1 hour weak-topic fixes (from Mock 1)",
+          "pyqTarget": "Re-solve wrong PYQs",
+          "revision": "Ranks 1–10"
+        },
+        {
+          "id": "w7d5",
+          "day": 5,
+          "topics": [
+            "Revise Most Important Topics 1–10 (Section 1)"
+          ],
+          "tasks": "1 hour notes + 1 hour mixed PYQs + 1 hour weak-topic fixes (from Mock 1)",
+          "pyqTarget": "Re-solve wrong PYQs",
+          "revision": "Ranks 1–10"
+        },
+        {
+          "id": "w7d6",
+          "day": 6,
+          "topics": [
+            "Mock 2 = GATE 2026 Set 1"
+          ],
+          "tasks": "Full 3-hour paper, timed",
+          "pyqTarget": "65 Qs",
+          "revision": "–"
+        },
+        {
+          "id": "w7d7",
+          "day": 7,
+          "topics": [
+            "Mock 2 analysis"
+          ],
+          "tasks": "Same error log; compare marks per subject with Mock 1",
+          "pyqTarget": "–",
+          "revision": "Weak topics"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "title": "Mock Tests & Revision (final 2 weeks)",
+      "days": [
+        {
+          "id": "w8d1",
+          "day": 1,
+          "topics": [
+            "Revise Most Important Topics 11–20 + foundation formula sheets"
+          ],
+          "tasks": "Rapid review of formula sheets; GA mixed set of 10 Qs each day",
+          "pyqTarget": "Re-solve wrong PYQs",
+          "revision": "Ranks 11–20"
+        },
+        {
+          "id": "w8d2",
+          "day": 2,
+          "topics": [
+            "Revise Most Important Topics 11–20 + foundation formula sheets"
+          ],
+          "tasks": "Rapid review of formula sheets; GA mixed set of 10 Qs each day",
+          "pyqTarget": "Re-solve wrong PYQs",
+          "revision": "Ranks 11–20"
+        },
+        {
+          "id": "w8d3",
+          "day": 3,
+          "topics": [
+            "Revise Most Important Topics 11–20 + foundation formula sheets"
+          ],
+          "tasks": "Rapid review of formula sheets; GA mixed set of 10 Qs each day",
+          "pyqTarget": "Re-solve wrong PYQs",
+          "revision": "Ranks 11–20"
+        },
+        {
+          "id": "w8d4",
+          "day": 4,
+          "topics": [
+            "Mock 3 = GATE 2026 Set 2"
+          ],
+          "tasks": "Full 3-hour paper, timed",
+          "pyqTarget": "65 Qs",
+          "revision": "–"
+        },
+        {
+          "id": "w8d5",
+          "day": 5,
+          "topics": [
+            "Mock 3 analysis"
+          ],
+          "tasks": "Fix the 3 weakest topics only",
+          "pyqTarget": "–",
+          "revision": "Weak topics"
+        },
+        {
+          "id": "w8d6",
+          "day": 6,
+          "topics": [
+            "Lowest-frequency topics, quick pass"
+          ],
+          "tasks": "One skim each: ER model, layering, ALU, greedy, divide & conquer, CPU performance",
+          "pyqTarget": "–",
+          "revision": "Low-frequency list"
+        },
+        {
+          "id": "w8d7",
+          "day": 7,
+          "topics": [
+            "Light revision"
+          ],
+          "tasks": "Formula sheets + error log only; no new material",
+          "pyqTarget": "–",
+          "revision": "Everything"
+        }
+      ]
+    }
+  ]
+}
